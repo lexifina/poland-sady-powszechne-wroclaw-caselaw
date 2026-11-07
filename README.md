@@ -3,7 +3,7 @@
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the common courts (sądy powszechne) of the Wrocław appellate region, Poland, which global-law reads at `poland/sady-powszechne-wroclaw/caselaw/`.
 
 Every judgment of the common courts (sądy powszechne) of the Wrocław appellate region that SAOS (System Analizy Orzeczeń Sądowych) holds with its text, as a git history: one file per
-judgment, one commit per judgment, dated the day it was given. 45,879 judgments from 2004-03-19 to 2026-11-07.
+judgment, one commit per judgment, dated the day it was given. 45,879 judgments given from 2004-03-19 to 2026-10-05, as SAOS held them on 2026-11-07.
 
 ## Questions as git commands
 
